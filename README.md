@@ -1,5 +1,7 @@
 # p1stdbeng
 
+Author: Jose E Rodriguez Rios
+Student_number:801-15-7592
 A small database engine built piece by piece: fixed-size records (persons,
 parts) packed into 4096-byte blocks, a block file layer, and a buffer manager
 with a pluggable replacement policy (LRU included).
